@@ -1,0 +1,17 @@
+.vscode/
+.vs/
+bin/
+obj/
+packages/
+[Bb]in/
+[Oo]bj/
+ipch/
+*.suo
+*.user
+*.sln.docstates
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
